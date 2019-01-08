@@ -34,4 +34,4 @@ If you use this analysis in a publication please cite the following [paper][Pape
 
 
 [Paper link]: https://www.sciencedirect.com/science/article/pii/S0896627314004504?via%3Dihub
-[results_example]: ../blob/master/picture1.png
+[results_example]: picture1.png
