@@ -20,7 +20,7 @@ An example of the map generated:
 To run:
 
 ```bash
-Rscript runRRHO path/to/csvs path/to/output
+Rscript runRRHO.R path/to/csvs path/to/output
 ```
 
 ### Citation
